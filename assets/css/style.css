@@ -96,7 +96,7 @@ input:checked + label::after {
   display: inline-block;
   width: 20px;
   height: 20px;
-  background:url('/assets/icon/png-clipart-check-mark-computer-icons-symbol-miscellaneous-angle.png') 0 0/17px 17px no-repeat;
+  background:url('/shoping-list/assets/icon/png-clipart-check-mark-computer-icons-symbol-miscellaneous-angle.png') 0 0/17px 17px no-repeat;
   position: absolute;
   top: 23px;
   left: 14px;
